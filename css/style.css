@@ -1,0 +1,55 @@
+.canvas .title{
+  padding: 25px 0 0 0;
+  font-size: 38px;
+  font-family: 'Esteban', serif;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000; 
+}
+.canvas .subtitle{
+  color: #fff;
+  text-shadow: 1px 1px 1px #000; 
+}
+.canvas{
+  min-height: 400px;
+  background-image: url(/img/home1.jpg);
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.content p{
+  color: #333;
+}
+.list_header{
+  font-weight: bold;
+  font-style: bold;
+}
+
+
+.footer{
+  color: #999;
+  border-top: 1px solid #4e4944;
+  background-color: #333;
+  font-size: 12px;
+  margin-top: 50px;
+}
+.footer a{
+  color: #999;
+  text-decoration: none;
+}
+.footer hr{
+  border-top: 1px solid #999;
+}
+.footer h4{
+  color: #ccc;
+  font-family: 'Merriweather', serif;
+}
+
+
+a.event_link{
+  color: #f02b11 !important;
+}
