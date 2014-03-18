@@ -1,6 +1,12 @@
 .portrait{
   padding: 0 20px 20px 0;
 }
+
+p.bucket{
+  color: #999;
+  font-size: 13px;
+}
+
 .canvas .title{
   padding: 25px 0 0 0;
   font-size: 38px;
